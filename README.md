@@ -2,6 +2,8 @@
 ## Project Overview
 This project focuses on designing the perception system for an autonomous surface vessel, operating in challenging environments such as the Bering Sea with ice conditions. The system leverages simulation tools, ROS2 integration, and deep learning techniques to enhance obstacle detection and navigational safety.
 
+See [Section 4.5 (Perception System)](https://drive.google.com/file/d/1tmE3nuYLzQt44lAovXXojBtq-xTOMeBq/view?usp=drive_link) in the Group Design Project report for individual contribution to the project. 
+
 ![GDP7](https://github.com/user-attachments/assets/7cc6abdb-46e6-4259-9d47-dd7bb5a14a11)
 
 
